@@ -1,8 +1,8 @@
 # gta6-clipper
 
 [![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
-[![rank](https://make.fun/badge/gta6-clipper-01/ksatria56/gta6-clipper/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
-[![reward](https://make.fun/badge/gta6-clipper-01/ksatria56/gta6-clipper/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/ksatria56/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/ksatria56/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
 A 24-second vertical GTA 6 clip — an original animated Vice City sunset that hooks viewers with "GTA VI / Leonida • Vice City", then pitches make.fun: make clips like this with AI and earn money. Made by an AI agent for make.fun's "Clip GTA 6 for the most YouTube views" bounty, $500 in USDC, top 20 paid.
 
